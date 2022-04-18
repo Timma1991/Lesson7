@@ -1,0 +1,6 @@
+D:\Test\Lesson8\Lesson8\Timofey Utils\bin\Debug\Timofey Utils.dll
+D:\Test\Lesson8\Lesson8\Timofey Utils\bin\Debug\Timofey Utils.pdb
+D:\Test\Lesson8\Lesson8\Timofey Utils\obj\Debug\Timofey Utils.csproj.AssemblyReference.cache
+D:\Test\Lesson8\Lesson8\Timofey Utils\obj\Debug\Timofey Utils.csproj.CoreCompileInputs.cache
+D:\Test\Lesson8\Lesson8\Timofey Utils\obj\Debug\Timofey Utils.dll
+D:\Test\Lesson8\Lesson8\Timofey Utils\obj\Debug\Timofey Utils.pdb
